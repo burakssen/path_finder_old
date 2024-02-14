@@ -35,4 +35,4 @@ A simple visualisation of the A\* pathfinding algorithm using C++ raylib and ImG
 
 ## Author
 
-- [GitHub](https://github.com/burakssen)
+- [Burak Şen](https://github.com/burakssen)
